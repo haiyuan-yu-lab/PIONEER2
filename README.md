@@ -1,10 +1,10 @@
-# PIONEER2.0
-PIONEER2.0 is a geometric deep learning-based framework that predicts protein-protein interfaces by integrating structural homologs.
+# PIONEER2
+PIONEER2 is a geometric deep learning-based framework that predicts protein-protein interfaces by integrating structural homologs.
 
 After cloning the repository, please run the following command lines for the installation of environments:
 ```
-conda create -n pioneer2.0 python=3.9
-conda activate pioneer2.0
+conda create -n pioneer2 python=3.9
+conda activate pioneer2
 conda install numpy=1.26.4
 conda install pandas=2.2.3
 conda install -c bioconda cd-hit=4.8.1
